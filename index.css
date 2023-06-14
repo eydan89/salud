@@ -33,7 +33,10 @@ header, footer{
     box-shadow: 0 0 5px #f3f3f3;
     padding: 2vh;
 }
-
+#contact{
+    margin-left: 6%;
+    margin-right: 6%;
+}
 
 .content:hover{
     box-shadow: 0 0 20px #c5c5c5;
